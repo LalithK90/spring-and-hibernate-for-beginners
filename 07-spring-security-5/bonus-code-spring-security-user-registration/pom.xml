@@ -10,8 +10,8 @@
 	<name>spring-security-demo-user-registration</name>
 
 	<properties>
-		<springframework.version>5.0.4.RELEASE</springframework.version>
-		<springsecurity.version>5.0.3.RELEASE</springsecurity.version>
+		<springframework.version>5.2.15.RELEASE</springframework.version>
+		<springsecurity.version>5.5.0</springsecurity.version>
 
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
